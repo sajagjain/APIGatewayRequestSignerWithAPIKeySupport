@@ -2,7 +2,7 @@
 
 **NOTE: Make sure to type your json with double quotes. Single quotes does not work while parsing the data**
 
-Program.cs Line 22 to 29 - Edit the below code with your details and you are good to go.
+Program.cs Line 22 to 29 - Change the below code with your configuration and you are good to go.
 ```
 _accessKey = "<your_access_key>";
 _secretKey = "<your_secret_key>";
