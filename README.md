@@ -1,5 +1,7 @@
 # APIGatewayRequestSignerWithAPIKeySupport
 
+*NOTE: Make sure to type your json with double quotes. Single quotes does not work while parsing the data*
+
 Program.cs Line 22 to 29 - Edit the below code with your details and you are good to go.
 ```
 _accessKey = "<your_access_key>";
